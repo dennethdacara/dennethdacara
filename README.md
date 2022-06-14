@@ -16,7 +16,6 @@
 <br />
 
 <!--START_SECTION:badges-->
-Badges
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
