@@ -31,7 +31,7 @@ Badges
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennethdacara&show_icons=true&locale=en&layout=compact" alt="dennethdacara" /></p>
 
-<br /><br />
+<hr />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennethdacara&show_icons=true&locale=en" alt="dennethdacara" /></p>
 
