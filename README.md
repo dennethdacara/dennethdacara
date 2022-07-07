@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Large Scale SaaS Applications**
 
-- 🌱 I’m currently learning **React Native, Compound Components, Node JS, Python, AWS CloudFormation**
+- 🌱 I’m currently learning **Data Structures & Algorithms, React Native, Compound Components, Node JS, Python, AWS CloudFormation**
 
 - 👯 I’m looking to collaborate on **React JS Projects**
 
